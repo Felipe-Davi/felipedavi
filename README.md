@@ -7,4 +7,4 @@
 
 <body>
     <h1>Hi World! </h1>
-    <p>Welcome to my profile, my name is Felipe  and I'm a software studant.</p>
+    <p>Welcome to my profile, my name is Felipe  and I'm a programming student.</p>
